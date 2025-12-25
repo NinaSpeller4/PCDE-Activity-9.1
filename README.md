@@ -1,5 +1,5 @@
-Repository for Activity 9.1
-# MIT PCDE Activity 9.1
+Repository for Activity 9.1 and 9.2
+# MIT PCDE Activity 9.1 and 9.2
 
 This repository contains my submission for **Activity 9.1** of the *MIT Professional Certificate in Data Engineering* program.
 
