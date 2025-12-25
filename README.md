@@ -1,7 +1,7 @@
-Repository for Activity 9.1 and 9.2
-# MIT PCDE Activity 9.1 and 9.2
+Repository for Activities 9.1 and 9.2
+# MIT PCDE Activities 9.1 and 9.2
 
-This repository contains my submission for **Activity 9.1 and Activity 9.2** of the *MIT Professional Certificate in Data Engineering* program.
+This repository contains my submission for **Activities 9.1 and 9.2** of the *MIT Professional Certificate in Data Engineering* program.
 
 The notebook (`MIT.ipynb`) demonstrates foundational Python programming and data exploration concepts used in data engineering coursework, including:
 
